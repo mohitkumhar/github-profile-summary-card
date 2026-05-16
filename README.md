@@ -10,13 +10,13 @@
       :star: This repo is just for fun, feel free to contribute! :star:
    </p>
    <p align="center">
-      <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards/stargazers">
+      <a href="https://github.com/mohitkumhar/github-profile-summary-cards/stargazers">
       <img alt="Stargazers" src="https://img.shields.io/github/stars/vn7n24fzkq/github-profile-summary-cards?style=for-the-badge&logo=github&color=f4dbd6&logoColor=D9E0EE&labelColor=302D41"></a>
-      <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards/releases/latest">
+      <a href="https://github.com/mohitkumhar/github-profile-summary-cards/releases/latest">
       <img alt="Releases" src="https://img.shields.io/github/release/vn7n24fzkq/github-profile-summary-cards.svg?style=for-the-badge&logo=semantic-release&color=f5bde6&logoColor=D9E0EE&labelColor=302D41"/></a>
       <a href="https://www.conventionalcommits.org/en/v1.0.0/">
       <img alt="conventionalcommits" src="https://img.shields.io/badge/Conventional%20Commits-1.0.0-%23FE5196?style=for-the-badge&logo=conventionalcommits&color=ee99a0&logoColor=D9E0EE&labelColor=302D41"></a>
-      <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards/actions/workflows/github-action.yml">
+      <a href="https://github.com/mohitkumhar/github-profile-summary-cards/actions/workflows/github-action.yml">
       <img alt="testandlint" src="https://img.shields.io/github/actions/workflow/status/vn7n24fzkq/github-profile-summary-cards/test-and-lint.yml?branch=main&label=Test%20and%20Lint&style=for-the-badge&color=a6da95"></a>
    </p>
 </div>
@@ -48,7 +48,7 @@
 |transparent|
 |![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vn7n24fzkq&theme=transparent)|
 
-[More themes](https://github.com/vn7n24fzkq/github-profile-summary-cards-example/tree/master/profile-summary-card-output)
+[More themes](https://github.com/mohitkumhar/github-profile-summary-cards-example/tree/master/profile-summary-card-output)
 
 ## How to use (API)
 ### Profile details card
@@ -114,18 +114,18 @@
 This action generate your github profile summary cards and make a commit to your repo.
 You can also trigger action by yourself after add this action.
 
-:star: [Follow tutorial](https://github.com/vn7n24fzkq/github-profile-summary-cards/wiki/Tutorial) ( Recommendation ) :star:
+:star: [Follow tutorial](https://github.com/mohitkumhar/github-profile-summary-cards/wiki/Tutorial) ( Recommendation ) :star:
 
 #### First step
 
 - You need create a [Personal access token](https://docs.github.com/en/github/authenticating-to-github/creating-a-personal-access-token) with correct permissions.
-  [Personal token](https://github.com/vn7n24fzkq/github-profile-summary-cards/wiki/Tutorial#generate-token)
+  [Personal token](https://github.com/mohitkumhar/github-profile-summary-cards/wiki/Tutorial#generate-token)
 
 - Add personal access token to repo secret.
 
 #### Use template ( create a repository )
 
-- [github-profile-summary-cards-example](https://github.com/vn7n24fzkq/github-profile-summary-cards-example)
+- [github-profile-summary-cards-example](https://github.com/mohitkumhar/github-profile-summary-cards-example)
 
 - Action already setup in this template, you just need click `use this template button` to create your profile readme.
 

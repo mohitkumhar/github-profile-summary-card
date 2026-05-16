@@ -2,8 +2,8 @@
 
 這份專案受到 [profile-summary-for-github](https://github.com/tipsy/profile-summary-for-github) 啟發
 
-![Test and Lint](https://github.com/vn7n24fzkq/github-profile-summary-cards/workflows/Test%20and%20Lint/badge.svg)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards/blob/master/LICENSE)
+![Test and Lint](https://github.com/mohitkumhar/github-profile-summary-cards/workflows/Test%20and%20Lint/badge.svg)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/mohitkumhar/github-profile-summary-cards/blob/master/LICENSE)
 ![release](https://img.shields.io/github/v/release/vn7n24fzkq/github-profile-summary-cards.svg)
 
 [繁體中文](./docs/README.zh-tw.md)
@@ -34,7 +34,7 @@
 ![](https://raw.githubusercontent.com/vn7n24fzkq/vn7n24fzkq/master/profile-summary-card-output/solarized/3-stats.svg)
 ![](https://raw.githubusercontent.com/vn7n24fzkq/vn7n24fzkq/master/profile-summary-card-output/solarized/4-productive-time.svg)
 
-[更多主題](https://github.com/vn7n24fzkq/github-profile-summary-cards-example/tree/master/profile-summary-card-output)
+[更多主題](https://github.com/mohitkumhar/github-profile-summary-cards-example/tree/master/profile-summary-card-output)
 
 ---
 
@@ -43,18 +43,18 @@
 這個 GitHub Action 會產生你的 GitHub 個人統計圖表並且 commit 到你的 repo 裡.
 新增 這個Action 之後你也可以自己觸發 action.
 
-:star: [跟著教學](https://github.com/vn7n24fzkq/github-profile-summary-cards/wiki/Toturial) ( 推薦 ) :star:
+:star: [跟著教學](https://github.com/mohitkumhar/github-profile-summary-cards/wiki/Toturial) ( 推薦 ) :star:
 
 #### 第一步
 
 - You need create a [Personal access token](https://docs.github.com/en/github/authenticating-to-github/creating-a-personal-access-token) with correct permissions.
-  [Personal token permissions](https://github.com/vn7n24fzkq/github-profile-summary-cards/wiki/Personal-access-token-permissions)
+  [Personal token permissions](https://github.com/mohitkumhar/github-profile-summary-cards/wiki/Personal-access-token-permissions)
 
 - Add personal access token to repo secret.
 
 #### 使用模板 ( 創建一個儲存庫 )
 
-- [github-profile-summary-cards-example](https://github.com/vn7n24fzkq/github-profile-summary-cards-example)
+- [github-profile-summary-cards-example](https://github.com/mohitkumhar/github-profile-summary-cards-example)
 
 - Action 已經在這個模板裡設定好了, 你只需要按下 `use this template button` 來創建你的 profile readme.
 
